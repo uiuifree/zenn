@@ -6,16 +6,16 @@ price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - start
-  - framework
-  - routing
-  - html
-  - json
-  - error
-  - get-post
-  - validation
-  - database
-  - mail
-  - cache
-  - csrf
-  - command
-  - env
+#  - framework
+#  - routing
+#  - html
+#  - json
+#  - error
+#  - get-post
+#  - validation
+#  - database
+#  - mail
+#  - cache
+#  - csrf
+#  - command
+#  - env
