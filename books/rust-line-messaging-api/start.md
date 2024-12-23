@@ -30,8 +30,7 @@ let clinet= LineClient::new(line_token);
 ```
 
 
-
-#　目次
+# 目次
 
 1. [ボット情報](bot)
 2. [リッチメニューの設定（共通）](richmenu)
