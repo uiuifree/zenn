@@ -1,6 +1,6 @@
 title: "RustでLINEログインAPIを使ってみよう"
 summary: "LINEログインAPIを使うためのライブラリの実装内容まとめ"
-topics: []
+topics: ["line","rust"]
 published: true
 price: 0 # 有料の場合200〜5000
 #https://zenn.dev/uiuifree/books/rust-line-messaging-api/viewer/start
