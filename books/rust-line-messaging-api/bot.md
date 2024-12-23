@@ -1,5 +1,5 @@
 ---
-title: "ボット"
+title: "ボット情報"
 ---
 
 ## ボットの情報を取得する
@@ -18,7 +18,7 @@ dbg!(res);
 
 ### 出力結果
 
-```json
+```rust
 res = LineApiBotInfoResponse {
   user_id: "Ufxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   basic_id: "@xxx",

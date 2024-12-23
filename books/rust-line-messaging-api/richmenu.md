@@ -1,5 +1,5 @@
 ---
-title: "リッチメニュー"
+title: "リッチメニュー(共通設定)"
 ---
 
 https://developers.line.biz/ja/reference/messaging-api/#rich-menu
@@ -294,6 +294,5 @@ dbg!(res);
 res = Ok(
     LineApiRichMenuDeleteDefaultResponse,
 )
-
 ```
 

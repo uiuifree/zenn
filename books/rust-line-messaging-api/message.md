@@ -21,7 +21,7 @@ dbg!(res);
 
 ### 出力結果
 
-```json
+```rust
 res = Ok(
     LineApiMessageReplyResponse {
         sent_messages: [
@@ -52,7 +52,7 @@ dbg!(res);
 
 ### 出力結果
 
-```json
+```rust
 res = Ok(
     LineApiMessagePushResponse {
         sent_messages: [
@@ -82,14 +82,6 @@ dbg!(res);
 
 
 
-### 出力結果
-
-```json
-res = Ok(
-    LineApiMessageSendMulticastResponse,
-)
-
-```
 ## ブロードキャストメッセージを送る
 
 ### 実装
@@ -105,9 +97,3 @@ dbg!(res);
 ```
 
 
-
-### 出力結果
-
-```json
-LineApiMessageSendBroadcastResponse
-```

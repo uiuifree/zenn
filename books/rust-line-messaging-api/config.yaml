@@ -4,6 +4,7 @@ summary: "LINE Messaging APIを使うためのライブラリの実装内容ま�
 topics: []
 published: false
 price: 0 # 有料の場合200〜5000
+#https://zenn.dev/uiuifree/books/rust-line-messaging-api/viewer/start
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - start
