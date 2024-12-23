@@ -35,9 +35,8 @@ let clinet= LineClient::new(line_token);
 
 1. [ボット情報](bot)
 2. [リッチメニューの設定（共通）](richmenu)
-
-[//]: # (2. リッチメニューの設定（個人）)
 3. [メッセージ配信](message)
+[//]: # (2. リッチメニューの設定（個人）)
 
 [//]: # (4. MessageBuilderの使い方)
 
