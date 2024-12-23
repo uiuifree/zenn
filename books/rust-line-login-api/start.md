@@ -4,14 +4,15 @@ title: "LINEログイン APIをRustで使うために"
 
 
 # はじめに
-この本ではLINEログインAPIを使うためのライブラリ「[line-bot-login-api](https://github.com/uiuifree/rust-line-login-api)」の使い方を紹介していきます。
+この本ではLINEログインAPIを使うためのライブラリ「[line-login-api](https://github.com/uiuifree/rust-line-login-api)」の使い方を紹介していきます。
 
 
 
-# Cargo.tomlの設定
+# インストール方法
+Cargo.tomlの設定
 ```toml title:cargo.toml
 [dependencies]
-line-bot-login-api = "0.1"
+line-login-api = "0.1"
 
 serde = { version = "~1" }
 serde_json = "~1"
