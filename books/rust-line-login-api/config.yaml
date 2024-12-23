@@ -1,5 +1,5 @@
-title: "RustでLINE Login APIを使ってみよう"
-summary: "LINE Login APIを使うためのライブラリの実装内容まとめ"
+title: "RustでLINEログインAPIを使ってみよう"
+summary: "LINEログインAPIを使うためのライブラリの実装内容まとめ"
 topics: []
 published: true
 price: 0 # 有料の場合200〜5000
