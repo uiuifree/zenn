@@ -55,6 +55,10 @@ npx zenn list:books     # 本の一覧
   ```
 - チャプター: `{chapter-name}.md`
 
+## 記事の書き方
+記事を書く・直すときは、記事の型に合う `.claude/skills/zenn-*` の Skill を使う（自作ツール紹介・体験・技術解説・手順・考え方・まとめの6種類）。
+Skill は uiuifree/writing-skill-generator で生成して手元に置くもので、git では管理しない（`.gitignore` 済み）。ルールを直すときは生成元を直して作り直す。
+
 ## 注意事項
 - zenn-cliのバージョンは0.1.146と古い。最新版へのアップデート推奨
 - 記事・書籍の新規作成にはzenn-cliのコマンドを使用（手動ファイル作成も可能）
